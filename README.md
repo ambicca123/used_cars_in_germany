@@ -13,3 +13,7 @@ I have scraped a sample of used cars from the website [mobile.de](https://mobile
 1. Python
 2. Pandas
 3. Canva [to create the image]
+
+## Source code
+
+Find the notebook at [notebooks/analysis_for_infographics.ipynb](notebooks/analysis_for_infographics.ipynb)
